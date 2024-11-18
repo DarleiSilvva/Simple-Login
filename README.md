@@ -1,3 +1,20 @@
+### Esse projeto usou a API reqres para fazer um login simples.
+
+![image](https://github.com/user-attachments/assets/809a8ef5-eaff-4a41-a381-f09c7d3c6b2f)
+
+
+![image](https://github.com/user-attachments/assets/73f7b7ee-b47b-4d3b-8e9b-cb64d767ab0b)
+
+###  A ideia dele é mostrar um pouco sobre arquitetura limpa, MVVM e SOLID. Por isso, não foi dado tanto foco em layout.
+
+![image](https://github.com/user-attachments/assets/def7c925-79c3-402e-bd0e-c3c9fcf41ccf)
+
+![image](https://github.com/user-attachments/assets/0b1c70a2-3bbc-4602-b84c-f32c11b7e809)
+
+Use esses dados para logar "email": "eve.holt@reqres.in", "password": "cityslicka"
+
+###  Vamos para uma breve explicação...
+
 A arquitetura **Clean** + **MVVM** (Model-View-ViewModel) é uma abordagem eficaz para separar responsabilidades e organizar o código de maneira modular. Vamos entender como ela funciona e se relaciona com os princípios **SOLID**, usando um exemplo de um projeto de login com consumo de API e gerenciamento de estados.
 
 ### Arquitetura Clean + MVVM
